@@ -1,2 +1,3 @@
-# hds_datasets
-Health Data Science Datasets
+# HDS Datasets
+
+A collection of datasets for teaching and learning health data science.
